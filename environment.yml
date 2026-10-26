@@ -1,0 +1,17 @@
+name: generate-media
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - scipy
+  - librosa
+  - typer
+  - pip
+  - pip:
+      - pyo
+      - pedalboard
+      - sounddevice
+      - lameenc
+      - mido
