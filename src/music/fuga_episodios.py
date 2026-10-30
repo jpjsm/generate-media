@@ -24,11 +24,11 @@ Aquí está el episodio modulante: fuga_episodios.py y el audio fuga_episodios.m
 
 La forma completa
 
-Exposición en Re menor (tiempos 0–24), igual que antes.
-Episodio I (24–34), de Re a Fa mayor.
-Entradas en Fa mayor (34–50): el sujeto en el alto y su inversión en el bajo.
-Episodio II (50–60), de Fa de vuelta a Re.
-Entradas finales en Re menor (60–84): el sujeto en aumentación en el alto, el sujeto en el bajo y el acorde final de Re menor.
+Exposición en Re menor (tiempos 0-24), igual que antes.
+Episodio I (24-34), de Re a Fa mayor.
+Entradas en Fa mayor (34-50): el sujeto en el alto y su inversión en el bajo.
+Episodio II (50-60), de Fa de vuelta a Re.
+Entradas finales en Re menor (60-84): el sujeto en aumentación en el alto, el sujeto en el bajo y el acorde final de Re menor.
 
 Cómo funciona cada episodio
 
